@@ -2,7 +2,7 @@
 
 ![Xperiment626's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xperiment626&show_icons=true&theme=synthwave)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xperiment626&repo=github-readme-stats)](https://github.com/Xperiment626/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xperiment626&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
