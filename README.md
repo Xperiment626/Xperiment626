@@ -2,8 +2,6 @@
 
 ![Xperiment626's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xperiment626&show_icons=true&theme=synthwave)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xperiment626&repo=github-readme-stats)](https://github.com/Xperiment626/Xperiment626)
-
 <!--
 **Xperiment626/Xperiment626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
